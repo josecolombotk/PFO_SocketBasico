@@ -129,17 +129,6 @@ Consideraciones
 * Codificación UTF-8
 * No se permiten mensajes vacíos
 
----
-
-## 🚀 Posibles mejoras
-
-* Soporte para múltiples clientes (threads)
-* Interfaz gráfica
-* Historial de mensajes
-* Comandos personalizados
-
----
-
 Autor
 
 * Jose Luis Colombo
